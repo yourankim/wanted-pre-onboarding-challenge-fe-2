@@ -5,6 +5,7 @@
 
 # production
 /build
+/docs
 
 npm-debug.log*
 yarn-debug.log*
