@@ -1,3 +1,0 @@
-interface Todo {
-  id: String;
-}
